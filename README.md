@@ -1,4 +1,4 @@
-# kelulusan
+# Software Kelulusan
 Software kelulusan online sekolah
 software yang dikembangkan menggunakan CI 3 untuk pengumuman kelulusan siswa sekolah menengah atas
 
