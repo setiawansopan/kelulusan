@@ -18,6 +18,6 @@ step penggunaan
 
 login admin
 - url/admin_con
-
+- password : 123456
 untuk pemasangan di shared hosting, silahkan modifikasi file htaccess
 hilangkan tulisan -> kelulusan/ sebanyak 3 buah
