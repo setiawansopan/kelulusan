@@ -17,7 +17,7 @@ step penggunaan
 9. Selesai
 
 login admin
-- url/admin_con
+- url/admin_con (localhost/kelulusan/index.php/admin_con)-> kalau di local server
 - password : Rahasia123456
 
 untuk pemasangan di shared hosting, silahkan modifikasi file htaccess
