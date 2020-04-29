@@ -3,7 +3,7 @@ Software kelulusan online sekolah
 software yang dikembangkan menggunakan CI 3 untuk pengumuman kelulusan siswa sekolah menengah atas
 
 requirement
-1. xampp php versi 7.3.x
+1. xampp php versi 7.3.x ke bawah. ( tp jangan bawah 2 bgt ya :D )
 
 step penggunaan
 1. Install database
