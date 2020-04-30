@@ -18,7 +18,7 @@ step penggunaan
 
 login admin
 - url/admin_con (localhost/kelulusan/index.php/admin_con)-> kalau di local server
-- password : Rahasia123456
+- password : 345345teladan
 
 untuk pemasangan di shared hosting, silahkan modifikasi file htaccess
 hilangkan tulisan -> kelulusan/ sebanyak 3 buah
